@@ -45,7 +45,4 @@ The _Debt Avalanche_ approach is a fastest/cheapest approach to paying down debt
 
 This approach is the least expensive, but may lack the emotional boost that comes from a rapid payoff.
 
-![Random Avalanche Image](https://media.giphy.com/media/g9gHDjKwQqzcs/source.gif)
-
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/g9gHDjKwQqzcs/source.gif" width="800" height="300" alt="Random Avalanche image"/>
